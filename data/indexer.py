@@ -54,6 +54,21 @@ ANIMAL_TABLE = {
     'kip': 'chicken',
     'slang': 'snake',
     'vos': 'fox',
+    'pauw': 'peacock',
+    'beer': 'bear',
+    'geit': 'goat',
+    'hond': 'dog',
+    'kat': 'cat',
+    'kikker': 'frog',
+    'koe': 'cow',
+    'konijn': 'rabbit',
+    'leeuw': 'lion',
+    'olifant': 'elephant',
+    'paard': 'horse',
+    'rat': 'rat',
+    'schaap': 'sheep',
+    'wolf': 'wolf',
+    'zwijn': 'pig',
 }
 
 
