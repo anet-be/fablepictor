@@ -2,7 +2,9 @@
 
 ## Architecture
 
-Fablepictor works on the basis of CSV data file (`data/data.csv`) with a certain structure. There is a build step executes a Python script, which takes the data from this CSV file and transforms it into a number of JSON files.
+The database for this project is managed as a [Microsoft Excel spreadsheet](https://uantwerpen.sharepoint.com/:x:/r/sites/Bijzondere_Collecties/Publiekswerking/Fablepictor/Fabeldierencatalogus_definitief.xlsx?d=w17dd901460b0479792ae101f70298659&csf=1&web=1&e=Kerrp2)
+
+Fablepictor works on the basis of CSV data export of this file (`data/data.csv`). There is a build step executes a Python script, which takes the data from this CSV file and transforms it into a number of JSON files.
 
 These JSON files then serve as the backend for the frontend application. They contain the descriptive metadata (`metadata.json`), a search index (`index.json`) and the IIIF identifiers (`identifiers.json`). These are handled and queried with `index.html` and `index.js`.
 
