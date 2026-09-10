@@ -2,7 +2,7 @@
 
 [https://anet-be.github.io/fablepictor/](https://anet-be.github.io/fablepictor/)
 
-FablePictor is based on data containing illustrations of monkeys, chickens, snakes, donkeys and foxes, found in a specific set of fable books. The books are part of the [collection Gielen](https://anet.be/query/uantwerpen/opacua/ua-gielenw-od), kept in the [Special Collections](https://www.uantwerpen.be/nl/projecten/archief-en-erfgoed/preciosa/) of the University Library of Antwerp. FablePictor makes it possible to browse through 834 images, coming from fables from Aesop, Jean de la Fontaine and many others.
+FablePictor is based on data containing illustrations of monkeys, chickens, snakes, donkeys and foxes, found in a specific set of fable books. The books are part of the [collection Gielen](https://go.wander.be/query/uantwerpen/opacua/ua-gielenw-od), kept in the [Special Collections](https://www.uantwerpen.be/nl/projecten/archief-en-erfgoed/preciosa/) of the University Library of Antwerp. FablePictor makes it possible to browse through 834 images, coming from fables from Aesop, Jean de la Fontaine and many others.
 
 Within the scope of this pilot, 74 of the 195 different book titles have been studied. 37 books contained illustrations of the aforementioned animals that were selected as a starting point. The oldest book dates from 1607, the youngest one from 1838. This project enables you to easily compare the presence and presentation of fable animals over three centuries, and allows more research into the genre of fable books, book illustration e.g.
 
